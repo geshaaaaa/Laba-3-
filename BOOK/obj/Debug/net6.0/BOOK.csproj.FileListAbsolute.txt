@@ -1,0 +1,15 @@
+D:\C#\BOOK\BOOK\bin\Debug\net6.0\BOOK.exe
+D:\C#\BOOK\BOOK\bin\Debug\net6.0\BOOK.deps.json
+D:\C#\BOOK\BOOK\bin\Debug\net6.0\BOOK.runtimeconfig.json
+D:\C#\BOOK\BOOK\bin\Debug\net6.0\BOOK.dll
+D:\C#\BOOK\BOOK\bin\Debug\net6.0\BOOK.pdb
+D:\C#\BOOK\BOOK\obj\Debug\net6.0\BOOK.csproj.AssemblyReference.cache
+D:\C#\BOOK\BOOK\obj\Debug\net6.0\BOOK.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BOOK\BOOK\obj\Debug\net6.0\BOOK.AssemblyInfoInputs.cache
+D:\C#\BOOK\BOOK\obj\Debug\net6.0\BOOK.AssemblyInfo.cs
+D:\C#\BOOK\BOOK\obj\Debug\net6.0\BOOK.csproj.CoreCompileInputs.cache
+D:\C#\BOOK\BOOK\obj\Debug\net6.0\BOOK.dll
+D:\C#\BOOK\BOOK\obj\Debug\net6.0\refint\BOOK.dll
+D:\C#\BOOK\BOOK\obj\Debug\net6.0\BOOK.pdb
+D:\C#\BOOK\BOOK\obj\Debug\net6.0\BOOK.genruntimeconfig.cache
+D:\C#\BOOK\BOOK\obj\Debug\net6.0\ref\BOOK.dll
