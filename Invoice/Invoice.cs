@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Laboratorka3
+namespace zavd4
 {
     internal class Invoice
     {
