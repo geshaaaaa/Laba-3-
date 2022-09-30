@@ -9,7 +9,7 @@ namespace Laboratorka3
     class Rectangle
     {
         private double side1, side2;
-        
+        //gg
         public double Side1
         {
             set { side1 = value; }
