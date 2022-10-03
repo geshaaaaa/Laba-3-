@@ -43,19 +43,19 @@ namespace zavd4
         {
             double fee = 0;
             double sum = 0;           
-            int price = 1200;
-            quantity = 3;         
+            
+         
             switch (Article)
             {
                 case "PDV":
                     {
                         fee = 0.20;
-                        sum = (price * quantity) * fee;
+                        sum = (account * quantity) * fee;
                         break;
                     }
                 case "No PDV":
                     {
-                        sum = price * quantity;
+                        sum += account * quantity;
                         break;
                     }
             }
@@ -65,7 +65,11 @@ namespace zavd4
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Ціна товару, отримувач, постачальник:");
             Invoice invoice = new Invoice(5000, "Hennadii", "Rozetka");
+            Console.WriteLine("Кількість товару: ");
+            int quantity = int.Parse(Console.ReadLine());
+            invoice.Quantity = quantity;
             Console.WriteLine("PDV");
             Console.WriteLine("No PDV");
             string article = Console.ReadLine();
